@@ -1,5 +1,11 @@
 #!/bin/sh
 
+# Check if shellcheck is installed
+if ! command -v shellcheck >/dev/null 2>&1; then
+    echo "shellcheck is not installed. Please install it first."
+    exit 1
+fi
+
 # Check if shfmt is installed
 if ! command -v shfmt >/dev/null 2>&1; then
     echo "shfmt is not installed. Please install it first."
