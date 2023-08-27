@@ -1,10 +1,9 @@
 ---
 name: Feature request
 about: Are we missing your favorite feature?
-title: ''
-labels: 'priority 4: wishlist, type: feature request'
-assignees: ''
-
+title: ""
+labels: "priority 4: wishlist, type: feature request"
+assignees: ""
 ---
 
 **Is your feature request related to a problem? Please describe.**

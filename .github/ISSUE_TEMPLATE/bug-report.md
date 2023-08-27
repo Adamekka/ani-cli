@@ -1,10 +1,9 @@
 ---
 name: Bug report
 about: Ran into some unexpected behaviour? NOT FOR FEATURE REQUESTS
-title: ''
-labels: 'priority 2: medium, type: bug'
-assignees: ''
-
+title: ""
+labels: "priority 2: medium, type: bug"
+assignees: ""
 ---
 
 **Metadata (please complete the following information)**

@@ -1,6 +1,6 @@
 #!/bin/sh
 
-version_number="4.6.1"
+version_number="4.6.1-adamekka"
 
 # UI
 
@@ -33,6 +33,8 @@ die() {
 
 help_info() {
     printf "
+    ani-cli fork by Adamekka
+
     Usage:
     %s [options] [query]
     %s [query] [options]
@@ -81,7 +83,7 @@ version_info() {
 }
 
 update_script() {
-    update="$(curl -s -A "$agent" "https://raw.githubusercontent.com/pystardust/ani-cli/master/ani-cli")" || die "Connection error"
+    update="$(curl -s -A "$agent" "https://raw.githubusercontent.com/Adamekka/ani-cli/master/ani-cli")" || die "Connection error"
     update="$(printf '%s\n' "$update" | diff -u "$0" -)"
     if [ -z "$update" ]; then
         printf "Script is up to date :)\n"
@@ -463,4 +465,4 @@ done
 # You should have received a copy of the GNU General Public License
 # along with this program. If not, see <http://www.gnu.org/licenses/>.
 #
-# Project repository: https://github.com/pystardust/ani-cli
+# Project repository: https://github.com/Adamekka/ani-cli

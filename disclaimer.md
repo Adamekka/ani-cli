@@ -1,4 +1,3 @@
-
 <h1 align="center">Disclaimer</h1>
 
 <div align="center">
@@ -25,7 +24,7 @@ This project has no control on the content it is serving, using copyrighted cont
 
 <br>
 
-<h2>DMCA and Copyright Infrigements</h3>
+<h2>DMCA and Copyright Infringements</h3>
 
 <br>
 
@@ -33,7 +32,7 @@ This project has no control on the content it is serving, using copyrighted cont
 A browser is a tool, and the maliciousness of the tool is directly based on the user.
 </b>
 
-This project uses client-side content access mechanisms. Hence, the copyright infrigements or DMCA in this project's regards are to be forwarded to the associated site by the associated notifier of any such claims. As of writing this is [allanime](https://allanime.to)
+This project uses client-side content access mechanisms. Hence, the copyright infringements or DMCA in this project's regards are to be forwarded to the associated site by the associated notifier of any such claims. As of writing this is [allanime](https://allanime.to)
 
 <b> Do not harass the maintainer. </b>
 
@@ -42,5 +41,8 @@ Contacting the maintainer
 </h2>
 <br>
 
-Begin by making a GitHub issue or sending an email to port19@port19.xyz
+Begin by making a GitHub issue or sending a message on Telegram to `@Adamekkaa` or Discord to `adamekka`
+
+Telegram: https://t.me/Adamekkaa
+
 </div>

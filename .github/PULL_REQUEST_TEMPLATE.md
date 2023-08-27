@@ -8,13 +8,15 @@
 
 ## Description
 
-*ramble here*
+_ramble here_
 
 ## Checklist
 
 - [ ] any anime playing
 - [ ] bumped version
+
 ---
+
 - [ ] next, prev and replay work
 - [ ] `-c` history and continue work
 - [ ] `-d` downloads work
@@ -26,7 +28,9 @@
 - [ ] `-r` range selection works
 - [ ] `--dub` and regular (sub) mode both work
 - [ ] all providers return links (not necessarily on a single anime, use debug mode to confirm)
+
 ---
+
 - [ ] `-h` help info is up to date
 - [ ] Readme is up to date
 - [ ] Man page is up to date
