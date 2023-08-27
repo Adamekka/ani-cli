@@ -1,0 +1,3 @@
+#!/bin/sh
+
+install -m 755 ani-cli /usr/local/bin/ani-cli
