@@ -1,0 +1,10 @@
+#!/bin/sh
+
+# Check if shfmt is installed
+if ! command -v shfmt >/dev/null 2>&1; then
+    echo "shfmt is not installed. Please install it first."
+    exit 1
+fi
+
+shellcheck -s sh -o all -e 2250 ani-cli
+shfmt -w -i 4 -ci ani-cli
