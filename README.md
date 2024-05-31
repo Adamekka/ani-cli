@@ -17,7 +17,7 @@
 <br>
 A cli to browse and watch anime (alone AND with friends). This tool scrapes the site <a href="https://allanime.to/">allanime.</a>
 </h3>
-	
+
 <h1 align="center">
 	Showcase
 </h1>
@@ -28,20 +28,6 @@ A cli to browse and watch anime (alone AND with friends). This tool scrapes the 
 
 - [Fixing errors](#fixing-errors)
 - [Install](#install)
-- [Uninstall](#uninstall)
-- [Dependencies](#dependencies)
-  - [Ani-Skip](#ani-skip)
-- [Homies](#homies)
-- [Contribution Guidelines](./CONTRIBUTING.md)
-- [Disclaimer](./disclaimer.md)
-
-## Fixing errors
-
-If you encounter `No results found` (and are sure the prompt was correct) or any breaking issue, then make sure you are on **latest version** by typing
-`sudo ani-cli -U` to update on Linux, Mac and Android. On Windows, run windows terminal preview and there type `ani-cli -U`.
-If after this the issue persists then open an issue.
-
-## Install
 
 ### Installing from source
 
